@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+h2{
+    color: rgb(255,0,157);
+    font-family:"Lobster";
+    font-size: 3rem;
+}
+
+.Our-Story-image{
+    display: flex;
+    justify-content: center;
+    height: 30rem;
+}
+
+.Our-Story-text{
+    color:rgb(255,0,157) ;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    font-family:"Comforter";
+    font-size: 1.75rem;
+    font-weight:bolder;
+}
+.bg-dark {
+    background-color: rgb(255, 0, 156)!important;
+}
+
+.navbar-brand {
+    font-family:"Pacifico";
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+
+.nav-link {
+    font-family:"Quintessential";
+    font-weight: bold;
+    font-size: 1.25rem;
+}

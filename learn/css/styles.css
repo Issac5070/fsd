@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.subheading {
+    color:red;
+}
+h1{
+    color:blue;
+    background-color:black;
+    padding:1rem;
+    border:0.25rem solid red;
+    margin:2rem;
+    text-align: center;
+    font-family:"Lobster";
+    font-weight: normal;
+    font-size: 6rem;
+    height: 14rem;
+    width: 16rem;
+}
+.container {
+    border: 0.1rem solid cyan;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.item {
+    border: 0.1rem solid darkmagenta;
+    height: 6rem;
+    width: 6rem;
+}
